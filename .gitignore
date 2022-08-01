@@ -1,0 +1,10 @@
+venv
+.idea
+Auths.py
+chromedriver.exe
+report 1 кв.xlsx
+report 2 кв.xlsx
+test.py
+*.pyc
+*.pyo
+__pycache__
